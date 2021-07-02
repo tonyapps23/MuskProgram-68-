@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "141946349904",
+    "project_id": "tesla-program-aa2cc",
+    "storage_bucket": "tesla-program-aa2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141946349904:android:94fb04e39d8acc0574a455",
+        "android_client_info": {
+          "package_name": "com.tony_fire.teslaprogramss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141946349904-uvidq78ib75h1kssebm742137hpstoaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCznQm2gqkSkI9TQjBahLpFovw7z9k5tVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141946349904-uvidq78ib75h1kssebm742137hpstoaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141946349904:android:373830026017248e74a455",
+        "android_client_info": {
+          "package_name": "com.tony_fire.tslaprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141946349904-uvidq78ib75h1kssebm742137hpstoaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCznQm2gqkSkI9TQjBahLpFovw7z9k5tVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141946349904-uvidq78ib75h1kssebm742137hpstoaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
